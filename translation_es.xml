@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>Gozdul</translationContributors>
+  <elements>
+	<e k="beesrevamp_beecare_info_title_oxusim" v="Tratamiento de invierno"/>
+	<e k="beesrevamp_beecare_info_title_swarm_pressure" v="Presión del enjambre"/>
+	<e k="beesrevamp_beecare_info_title_bee_population" v="Población de abejas"/>
+	<e k="beesrevamp_beecare_info_title_state" v="Estado"/>
+	<e k="beesrevamp_beecare_info_bee_population_format" v="%s Abejas"/>
+	<e k="beesrevamp_beecare_do_swarm_control" v="Ejecución del control de enjambres"/>
+	<e k="beesrevamp_beecare_state_economic_hive" v="Colonia económica"/>
+	<e k="beesrevamp_beecare_state_young_hive" v="Colonia joven"/>
+	<e k="beesrevamp_beecare_state_dead_hive" v="Muerta"/>
+	<e k="beesrevamp_beecare_state_additional_swarmed" v="Enjambraron"/>
+	<e k="beesrevamp_beecare_common_state_on" v="Sí"/>
+	<e k="beesrevamp_beecare_common_state_off" v="No"/>
+	<e k="beesrevamp_placeablebeehiveextended_info_title_nectar" v="Néctar"/>
+	<e k="beesrevamp_placeablebeehiveextended_info_nectar_format" v="%s l"/>
+	<e k="beesrevamp_placeablebeehiveextended_info_title_hives" v="Colonias"/>
+	<e k="beesrevamp_beehivesystemextended_info_influenced_by_bees" v="Influenciado por las abejas"/>
+	<e k="beesrevamp_beehivesystemextended_info_bee_bonus" v="Bonificación de abejas"/>
+	<e k="beesrevamp_beehivesystemextended_info_influenced_hive_singular" v="Colmena Eco."/>
+	<e k="beesrevamp_beehivesystemextended_info_influenced_hive_plural" v="Colmenas Eco."/>
+	<e k="beesrevamp_beehivesystemextended_info_title_bee_bonus_is_shrinking" v="¡Exceso de suministro!"/>
+	<e k="beesrevamp_beehivesystemextended_info_bee_bonus_is_shrinking" v="La bonificación de abejas disminuye"/>
+
+    <!-- Línea de ayuda -->
+	<e k="beesrevamp_helpline_category" v="Renovación de abejas"/>
+	<e k="beesrevamp_helpline_page_1" v="Descripción general"/>
+	<e k="beesrevamp_helpline_page_1_paragraph_2_title" v="¡Hola y bienvenido al Mod de Renovación de Abejas!"/>
+	<e k="beesrevamp_helpline_page_1_paragraph_2_text" v="Con este mod, las abejas en Farming Simulator 22 se vuelven más realistas y un poco más complejas, pero también más productivas.
+
+	Soy un apicultor aficionado con 10 colmenas en este momento y es una pena que tan pocos jueguen con abejas en Farming Simulator 22. Es por eso que comencé a desarrollar este mod en 2023.
+
+	Todos los valores y cambios están científicamente comprobados y/o quizás ligeramente ajustados para que no se conviertan en un asesino total de diversión. El enfoque siempre estará en divertirse.
+
+	- Dos estados de una colonia (colonia joven y colonia económica)
+	- Solo la colonia económica produce miel
+	- Las abejas recolectan néctar
+	- Las abejas solo recolectan cuando el clima es bueno
+	- El néctar se convierte en miel
+	- Las abejas comen néctar
+	- Se ha aumentado el alcance de las colmenas
+	- El rendimiento de polinización ha mejorado
+	- La colmena tiene un número variable de abejas
+	- La temporada de enjambrado es entre marzo y julio
+	- Se han ajustado los precios de las colmenas
+	- Se ha ajustado el precio de venta de la miel
+	- Compatible con la agricultura de precisión
+	- Compatible con TerraLife
+
+	Para más información, ayuda y reporte de problemas, por favor visita la página de Github de este mod: https://github.com/Peppie84/FS22_BeesRevamp
+
+	Espero que todos se diviertan con este mod.
+
+	- Dennis (Peppie84)"/>
+	<e k="beesrevamp_helpline_page_2" v="Comportamiento de las abejas"/>
+	<e k="beesrevamp_helpline_page_2_paragraph_1_title" v="Todo comienza pequeño..."/>
+	<e k="beesrevamp_helpline_page_2_paragraph_1_text" v="Una colonia de abejas también comienza pequeña. Tan pronto como coloques una colmena, la colonia comenzará con el estado: colonia joven."/>
+	<e k="beesrevamp_helpline_page_2_paragraph_2_text" v="Una colonia joven necesita alrededor de 1 año para crecer y convertirse en una colonia económica y solo entonces producirá miel para ti.
+
+	Cada colonia tiene un número aleatorio de abejas tan pronto como es colocada y se vuelve a calcular cada año. La población de abejas crece durante el período de marzo a julio y disminuye nuevamente en invierno. En la pantalla de información de una colmena también puedes ver cuánto néctar han recolectado las abejas y aún no han procesado. Las abejas no recolectan miel, sino néctar, y lo convierten en miel en la colmena. Más sobre esto en la sección de miel"/>
+	<e k="beesrevamp_helpline_page_2_paragraph_3_title" v="Si el clima es malo, nadie vuela"/>
+	<e k="beesrevamp_helpline_page_2_paragraph_3_text" v="Las abejas solo volarán si:
+	- Ha salido el sol
+	- La temperatura es de al menos 10 grados
+	- No está lloviendo
+	- No es un mes de invierno
+
+	Además, el alcance también se ha incrementado masivamente. En la vida real, una abeja recolecta dentro de un radio de hasta 3 km. Por lo tanto, el alcance se ha ampliado a 500 m."/>
+	<e k="beesrevamp_helpline_page_2_paragraph_4_text" v="También hay colmenas que albergan varias colonias de abejas, por ejemplo, Colmena (10 Langstroth). Sin embargo, en este momento no se simulan 10 colonias individuales, sino que todo se calcula como una sola colonia. Sin embargo, el número de colonias se utiliza para el cálculo de la bonificación de rendimiento posterior."/>
+	<e k="beesrevamp_helpline_page_2_paragraph_5_text" v="A partir de ahora, la colonia de abejas también comerá el néctar recolectado cada hora. Pero no te preocupes si el nivel de néctar baja a 0. Las abejas no morirán de hambre. Pero si solo tienes mal tiempo, la producción de miel cambiará drásticamente para el año en curso."/>
+	<e k="beesrevamp_helpline_page_3" v="Enjambrazón"/>
+	<e k="beesrevamp_helpline_page_3_paragraph_1_title" v="Si la caja es muy estrecha, las abejas quieren enjambrazar"/>
+	<e k="beesrevamp_helpline_page_3_paragraph_1_text" v="Entre marzo y julio la colonia crece muy rápidamente. Si el apicultor no expande la colmena durante este tiempo, rápidamente se volverá muy estrecha. Además, en algún momento 'el aburrimiento' entrará en juego y las colonias querrán enjambrazar."/>
+	<e k="beesrevamp_helpline_page_3_paragraph_2_text" v="Enjambrazar es la división natural de una colonia. Sin embargo, para el apicultor, esto significa una desventaja en la cosecha de miel de este año si alrededor de la mitad de las abejas han enjambrazado.
+
+	En la vida real, el apicultor debería revisar la colonia cada 7 días entre marzo y julio; en el juego, una vez al mes es suficiente. Hay un 25% de probabilidad de que una colonia no desarrolle 'presión de enjambrazón'."/>
+	<e k="beesrevamp_helpline_page_3_paragraph_3_text" v="Tienes que caminar hasta cada colmena y ver si tiene 'presión de enjambrazón' y luego realizar una acción con 'R'. Incluso si juegas con varios días por mes, tienes la oportunidad de llevar a cabo el control de enjambrazón durante todo el mes."/>
+	<e k="beesrevamp_helpline_page_3_paragraph_4_title" v="Colonia enjambrazada"/>
+	<e k="beesrevamp_helpline_page_3_paragraph_4_text" v="Si la colonia ha enjambrazado, el 50% de las abejas se llevan y esto significa una baja producción de miel para el resto del año. Este estado solo se reinicia al comienzo del año."/>
+	<e k="beesrevamp_helpline_page_4" v="Bonificación de rendimiento"/>
+	<e k="beesrevamp_helpline_page_4_paragraph_1_title" v="Nueva bonificación de rendimiento para cultivos de campo"/>
+	<e k="beesrevamp_helpline_page_4_paragraph_1_text" v="Con este mod, no es suficiente simplemente colocar una colonia de abejas en algún lugar, sino que también se trata de un cierto número de colonias por hectárea para obtener una buena bonificación de rendimiento.
+
+	La siguiente tabla muestra cuáles son las nuevas bonificaciones de rendimiento:
+
+	Cultivo            Bonificación máxima de rendimiento            Colonias por hectárea
+	Canola                      30%                            			3 colonias/ha
+	Girasol           			80%                        				4 colonias/ha
+	Papa                    	0%                           				-----
+	Alfalfa                     15%                       				10 colonias/ha
+	Trébol                      10%                        				8 colonias/ha
+	Alforfón             		25%                      				4.5 colonias/ha
+	Facelia                  	25%                        				4 colonias/ha
+	Silphie                   	50%                        				4 colonias/ha
+	Mostaza                   	50%                        				4 colonias/ha
+	Hierba de trébol            10%                        				8 colonias/ha
+
+	Las colonias de abejas con el estado: colonia joven están completamente excluidas de este cálculo. Esto evita que coloques las colonias de abejas en el campo poco antes de la cosecha y así recibas una bonificación."/>
+	<e k="beesrevamp_helpline_page_4_paragraph_2_text" v="La información del campo ahora te muestra cuántas colonias de abejas están cerca del campo, ya sean propias o de otros jugadores, y qué bonificación de rendimiento puedes esperar."/>
+	<e k="beesrevamp_helpline_page_4_paragraph_3_text" v="Pero ten cuidado, también puedes suministrar en exceso un campo, lo que tendrá un impacto negativo ya que perderás de nuevo la bonificación de rendimiento."/>
+	<e k="beesrevamp_helpline_page_5" v="Miel"/>
+	<e k="beesrevamp_helpline_page_5_paragraph_1_title" v="Muchas abejas hacen mucha miel"/>
+	<e k="beesrevamp_helpline_page_5_paragraph_1_text" v="La cantidad de miel ya no se determina por la colmena que hayas colocado, sino por varios factores.
+
+	Cuando el clima es bueno, un promedio de dos tercios de las abejas en una colmena recolectan néctar y un tercio se queda en la colmena cuidando a las abejas bebés y convirtiendo el néctar en miel, es decir, cuantas más abejas, más néctar/miel se produce.
+
+	Tan pronto como el sol se pone y las operaciones de vuelo se detienen, todas las abejas convertirán el néctar en miel. La miel solo se puede producir si hay néctar. El néctar no se convierte en miel en una proporción 1:1. Se necesitan tres partes de néctar para hacer una parte de miel. La conversión de néctar en miel se detiene durante el invierno, por lo que solo consumen néctar en invierno.
+
+	Si llueve durante mucho tiempo y las abejas no pueden salir a volar, no entrará néctar nuevo en la colmena y, por lo tanto, no se podrá producir miel.
+
+	Las abejas también necesitan comida. Simplemente toman esto del néctar recolectado. Si el valor de néctar baja a 0, las abejas no morirán."/>
+	<e k="beesrevamp_helpline_page_6" v="Tratamiento de invierno"/>
+
+  </elements>
+</l10n>

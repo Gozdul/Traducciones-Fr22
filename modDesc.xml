@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="80">
+  <author>Peppie84</author>
+  <version>1.1.0.1</version>
+  <title>
+    <en>Bees Revamp</en>
+  </title>
+  <description>
+  <es><![CDATA[
+Con este mod, las abejas en Farming Simulator 22 se vuelven más realistas y un poco más complejas pero también más productivas.
+
+Todos los valores y cambios están científicamente probados y/o ligeramente ajustados para que no disminuyan la diversión del juego. El enfoque siempre estará en divertirse.
+
+La mayoría de las preguntas pueden ser respondidas por la ayuda en el juego de este mod.
+
+- Dos estados de una colonia (colonia joven y colonia económica)
+- Solo la colonia económica produce miel
+- Las abejas recolectan néctar
+- Las abejas solo recolectan cuando el clima es bueno
+- El néctar se convierte en miel
+- Las abejas comen néctar
+- El rango de las colmenas ha aumentado
+- Rendimiento de polinización mejorado
+- La colmena tiene un número variable de abejas
+- La temporada de enjambrazón es entre marzo y julio
+- Los precios de las colmenas se han ajustado
+- El precio de venta de la miel se ha ajustado
+- Compatible con Precision Farming
+- Compatible con TerraLife
+
+Bonificación de rendimiento para: Colza, Girasol, Alfalfa, Trébol, Alforfón, Facelia, Silphium, Mostaza y Trébol de pradera.
+
+Colmenas adicionales compatibles:
+- Pack Of Beehives de BarT
+- Wooden Hive For Bees de Fr€d Fra-Cassés
+- Beehives Pack de Zoli708
+- Beehouse de MefiuFs
+- Bee Hive Trailer de Maca
+- Beehive With 3 Large Frames de doodoo
+- Beehouse de Ls_Dezign
+
+Changelog v1.1.0.1
+- Número fijo para la conversión de cadenas para formatear la información del néctar en los idiomas en e it.
+
+Changelog v1.1.0.0
+- Funcionalidad multijugador añadida
+- Reducción de la carga mientras se juega con Precision Farming y cálculo de la información del campo
+- Traducción añadida para IT
+- Soporte añadido para más mods de colmenas
+- Corrección de un bug para la conversión de semanas de TerraLife en stock por mes para la última semana en Feb.
+
+Para más información, ayuda e informes de problemas, por favor visita <a href='https://github.com/Peppie84/FS22_BeesRevamp'>GitHub</a>.
+]]></es>
+    <en><![CDATA[
+With this mod, bees in Farming Simulator 22 become more realistic and a bit more complex but also more productive.
+
+All values and changes are scientifically proven and/or perhaps slightly adjusted so that they do not completely kill the fun of the game. The focus will always be on having fun.
+
+Most questions can be answered by the in-game help of this mod.
+
+- Two states of a colony (young colony and economic colony)
+- Only the economic colony produces honey
+- Bees collect nectar
+- Bees only collect when the weather is good
+- Nectar is converted into honey
+- Bees eat nectar
+- Range of the beehives has been increased
+- Pollination performance improved
+- Beehive has a variable number of bees
+- Swarming season is between Mar-Jul
+- Prices of the beehives have been adjusted
+- Honey sales price has been adjusted
+- Precision farming compatible
+- TerraLife compatible
+
+Yield bonus for: Canola, Sunflower, Alfalfa, Clover, Buckwheat, Phacelia, Silphie, Mustard and Clover gras
+
+Additional supported bee hives:
+- Pack Of Beehives by BarT
+- Wooden Hive For Bees by Fr€d Fra-Cassés
+- Beehives Pack by Zoli708
+- Beehouse by MefiuFs
+- Bee Hive Trailer by Maca
+- Beehive With 3 Large Frames by doodoo
+- Beehouse by Ls_Dezign
+
+Changelog v1.1.0.1
+- Fixed Number to string conversion for formatting the nectar info for en and it language
+
+Changelog v1.1.0.0
+- Added multiplayer functionality
+- Reduced load while playing with precision farming and calculating the field info
+- Added translation for IT
+- Added support for more bee hive mods
+- Fixed a bug for conversion from TerraLife weeks in stock month for the last week in Feb
+
+For more information, help, and reporting issues please visit <a href='https://github.com/Peppie84/FS22_BeesRevamp'>GitHub</a>.
+]]></en>
+    <de><![CDATA[
+Mit dieser Mod werden die Bienen im Landwirtschafts-Simulator 22 realistischer und auch etwas komplexer aber dafür auch ertragreicher.
+
+Alle Werte und Änderungen sind wissenschaftlich belegt und oder vielleicht etwas angepasst, damit sie nicht ein kompletter Spielspaß-Killer werden. Im Vordergrund wird immer der Spielspaß stehen.
+
+Bitte schau Dir die Ingame-Hilfe zu dieser Mod an. Sie kann die meisten Fragen beantworten.
+
+- Zwei Zustände eines Volkes (Jungvolk und Wirtschaftsvolk)
+- Nur das Wirtschaftsvolk bringt Honig
+- Bienen sammeln Nektar
+- Bienen sammeln nur bei schönem Wetter
+- Nektar wird in Honig umgewandelt
+- Bienen fressen Nektar
+- Reichweite der Bienenstöcke wurde erhöht
+- Besteubungsleistung verbessert
+- Bienenstock hat eine variable Anzahl an Bienen
+- Zwischen Mär-Jul ist Schwarmzeit
+- Preise der Bienenstöcke wurden angepasst
+- Honigverkaufspreis wurde angepasst
+- Precision Farming kompatibel
+- TerraLife kompatibel
+
+Ertragsbonus für: Raps, Sonnenblume, Luzerne, Klee, Buchweizen, Phacelia, Silphie, Senf und Kleegras
+
+Zusätzlich unterstützte Bienenstöcke:
+- Bienenstöcke von BarT
+- Hölzerner Bienenstock Für Bienen von Fr€d Fra-Cassés
+- Bienenstock-Paket von Zoli708
+- Bienenhaus von MefiuFs
+- Bienenanhänger von Maca
+- Bienenstock Mit 3 Grossen Zargen von doodoo
+- Bienenhaus von Ls_Dezign
+
+Changelog v1.1.0.1
+- Konvertierung von Zahlen in Zeichenfolgen zum formatieren der Nectar-Informationen für die Sprachen EN und IT, behoben
+
+Changelog v1.1.0.0
+- Multiplayer funktionalität hinzugefügt
+- Veringert die Rechenlast zur Berechnung der Feldinfo mit PrecisionFarmin
+- Übersetzung für IT hinzugefügt
+- Es werden weitere Bienenmods unterstützt
+- Fehler bei der Umrechnung von TerraLife Wochen in Stock Monat behoben, der in der letzten Feb Woche geworfen wurde
+
+Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https://github.com/Peppie84/FS22_BeesRevamp'>GitHub</a>.
+]]></de>
+    <it><![CDATA[
+Con questa mod, le api in Farming Simulator 22 diventano più realistiche e un po' più complesse ma anche più produttive.
+
+Tutti i valori e le modifiche sono scientificamente provati e/o forse leggermente regolati in modo che non uccidano completamente il divertimento del gioco. L'obiettivo sarà sempre il divertimento.
+
+La maggior parte delle domande può essere risolta dall'aiuto in-game di questa mod.
+
+- Due stati di una colonia (colonia giovane e colonia economica)
+- Solo la colonia economica produce miele
+- Le api raccolgono nettare
+- Le api raccolgono solo quando il tempo è buono
+- Il nettare viene convertito in miele
+- Le api mangiano nettare
+- La portata degli alveari è stata aumentata
+- Prestazioni di impollinazione migliorate
+- L'alveare ha un numero variabile di api
+- La stagione dello sciame è tra Mar-Lug
+- I prezzi degli alveari sono stati regolati
+- Il prezzo di vendita del miele è stato regolato
+- Compatibile con precision farming
+- Compatibile con TerraLife
+
+Bonus di resa per: Colza, Girasole, Erba Medica, Trifoglio, Grano Saraceno, Facelia, Silphie, Senape e Erba di Trifoglio
+
+Alveari aggiuntivi supportati:
+- Pacchetto di Alveari di BarT
+- Alveare di Legno per Api di Fr€d Fra-Cassés
+- Pacchetto alveari di Zoli708
+- Apicoltura di MefiuFs
+- Rimorchio per alveari di Maca
+- Arnia con 3 telaini grandi di doodoo
+- Apicoltura di Ls_Dezign
+
+Changelog v1.1.0.1
+- Conversione fissa da numero a stringa per formattare le informazioni di Nectar per le lingue EN e IT
+
+Changelog v1.1.0.0
+- Aggiunta della funzionalità multigiocatore
+- Riduzione del carico durante il gioco dell'agricoltura di precisione e il calcolo delle informazioni sul campo
+- Aggiunta traduzione per IT
+- Aggiunto il supporto per altri modelli di alveare
+- Corretto un bug per la conversione da TerraLife delle settimane del mese di magazzino per l'ultima settimana di febbraio.
+
+Per ulteriori informazioni, aiuto e segnalazione di problemi, visita <a href='https://github.com/Peppie84/FS22_BeesRevamp'>GitHub</a>.
+]]></it>
+  </description>
+  <iconFilename>icon_BeesRevamp.dds</iconFilename>
+  <multiplayer supported="true" />
+  <extraSourceFiles>
+    <sourceFile filename="src/main.lua" />
+  </extraSourceFiles>
+  <l10n filenamePrefix="translations/translation" />
+</modDesc>
